@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dammm\\Desktop\\Slowniczek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|c:\\users\\dammm\\desktop\\slowniczek\\slowniczek\\apitlumaczen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|solutionrelative:slowniczek\\apitlumaczen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|C:\\Users\\dammm\\Desktop\\Slowniczek\\slowniczek\\rekordhistorii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|solutionrelative:slowniczek\\rekordhistorii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|C:\\Users\\dammm\\Desktop\\Slowniczek\\slowniczek\\tlumaczenia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|solutionrelative:slowniczek\\tlumaczenia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|c:\\users\\dammm\\desktop\\slowniczek\\slowniczek\\tlumacz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|solutionrelative:slowniczek\\tlumacz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|C:\\Users\\dammm\\Desktop\\Slowniczek\\slowniczek\\tlumacz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|solutionrelative:slowniczek\\tlumacz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|C:\\Users\\dammm\\Desktop\\Slowniczek\\slowniczek\\historia_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|solutionrelative:slowniczek\\historia_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|C:\\Users\\dammm\\Desktop\\Slowniczek\\slowniczek\\wyszukiwarka.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|solutionrelative:slowniczek\\wyszukiwarka.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|C:\\Users\\dammm\\Desktop\\Slowniczek\\slowniczek\\ulubione_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|solutionrelative:slowniczek\\ulubione_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|C:\\Users\\dammm\\Desktop\\Slowniczek\\slowniczek\\historia_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C773CD34-B686-4965-8C00-0796E5063516}|Slowniczek\\Slowniczek.csproj|solutionrelative:slowniczek\\historia_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiTlumaczen.cs",
+              "DocumentMoniker": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\ApiTlumaczen.cs",
+              "RelativeDocumentMoniker": "Slowniczek\\ApiTlumaczen.cs",
+              "ToolTip": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\ApiTlumaczen.cs",
+              "RelativeToolTip": "Slowniczek\\ApiTlumaczen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:34:40.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tlumacz.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Tlumacz.xaml.cs",
+              "RelativeDocumentMoniker": "Slowniczek\\Tlumacz.xaml.cs",
+              "ToolTip": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Tlumacz.xaml.cs",
+              "RelativeToolTip": "Slowniczek\\Tlumacz.xaml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAMwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:45:22.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Wyszukiwarka.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Wyszukiwarka.xaml.cs",
+              "RelativeDocumentMoniker": "Slowniczek\\Wyszukiwarka.xaml.cs",
+              "ToolTip": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Wyszukiwarka.xaml.cs",
+              "RelativeToolTip": "Slowniczek\\Wyszukiwarka.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADkSURBVDhPY2BAAq3rb/7fce7Zf2QxksCeiy/\u002Bi2bu\u002B7/t7FOiDWFkiN2FoVhTkpNhS7oUQ2VlJVyMnZ2doaCggMHY2JgRRTEy2H3hGdwF79\u002B////06VM4DgsL\u002Bx8dHf3/7NmzKBYyIXNO3f/MsDhVg8FSiYvh27dvyFIMDAwMDL9//2bo6\u002BtjQDYExYAQLQYGc0VOrJph4Pfv3wwTJkyA81H8ExcX97\u002B9vR1ZCCsoLCxkWLVqFSMDugt\u002B/PiBzCUKoBhADhg1gAoGoKSDzMzM/2/fvkUWwgqEhYUZpk\u002BfjjtPkAIA3yZeYPKewwEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-09T12:45:45.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ulubione_window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Ulubione_window.xaml.cs",
+              "RelativeDocumentMoniker": "Slowniczek\\Ulubione_window.xaml.cs",
+              "ToolTip": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Ulubione_window.xaml.cs",
+              "RelativeToolTip": "Slowniczek\\Ulubione_window.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDQAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADkSURBVDhPY2BAAq3rb/7fce7Zf2QxksCeiy/\u002Bi2bu\u002B7/t7FOiDWFkiN2FoVhTkpNhS7oUQ2VlJVyMnZ2doaCggMHY2JgRRTEy2H3hGdwF79\u002B////06VM4DgsL\u002Bx8dHf3/7NmzKBYyIXNO3f/MsDhVg8FSiYvh27dvyFIMDAwMDL9//2bo6\u002BtjQDYExYAQLQYGc0VOrJph4Pfv3wwTJkyA81H8ExcX97\u002B9vR1ZCCsoLCxkWLVqFSMDugt\u002B/PiBzCUKoBhADhg1gAoGoKSDzMzM/2/fvkUWwgqEhYUZpk\u002BfjjtPkAIA3yZeYPKewwEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-09T12:45:33.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tlumaczenia.cs",
+              "DocumentMoniker": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Tlumaczenia.cs",
+              "RelativeDocumentMoniker": "Slowniczek\\Tlumaczenia.cs",
+              "ToolTip": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Tlumaczenia.cs",
+              "RelativeToolTip": "Slowniczek\\Tlumaczenia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:45:47.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RekordHistorii.cs",
+              "DocumentMoniker": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\RekordHistorii.cs",
+              "RelativeDocumentMoniker": "Slowniczek\\RekordHistorii.cs",
+              "ToolTip": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\RekordHistorii.cs",
+              "RelativeToolTip": "Slowniczek\\RekordHistorii.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:45:49.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tlumacz.xaml",
+              "DocumentMoniker": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Tlumacz.xaml",
+              "RelativeDocumentMoniker": "Slowniczek\\Tlumacz.xaml",
+              "ToolTip": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Tlumacz.xaml",
+              "RelativeToolTip": "Slowniczek\\Tlumacz.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T12:45:20.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Historia_window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Historia_window.xaml.cs",
+              "RelativeDocumentMoniker": "Slowniczek\\Historia_window.xaml.cs",
+              "ToolTip": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Historia_window.xaml.cs",
+              "RelativeToolTip": "Slowniczek\\Historia_window.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADkSURBVDhPY2BAAq3rb/7fce7Zf2QxksCeiy/\u002Bi2bu\u002B7/t7FOiDWFkiN2FoVhTkpNhS7oUQ2VlJVyMnZ2doaCggMHY2JgRRTEy2H3hGdwF79\u002B////06VM4DgsL\u002Bx8dHf3/7NmzKBYyIXNO3f/MsDhVg8FSiYvh27dvyFIMDAwMDL9//2bo6\u002BtjQDYExYAQLQYGc0VOrJph4Pfv3wwTJkyA81H8ExcX97\u002B9vR1ZCCsoLCxkWLVqFSMDugt\u002B/PiBzCUKoBhADhg1gAoGoKSDzMzM/2/fvkUWwgqEhYUZpk\u002BfjjtPkAIA3yZeYPKewwEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-09T12:44:38.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Historia_window.xaml",
+              "DocumentMoniker": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Historia_window.xaml",
+              "RelativeDocumentMoniker": "Slowniczek\\Historia_window.xaml",
+              "ToolTip": "C:\\Users\\dammm\\Desktop\\Slowniczek\\Slowniczek\\Historia_window.xaml",
+              "RelativeToolTip": "Slowniczek\\Historia_window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T12:44:32.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

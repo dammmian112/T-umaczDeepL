@@ -1,0 +1,13 @@
+﻿<Window x:Class="Slowniczek.Wyszukiwarka"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Slowniczek"
+        mc:Ignorable="d"
+        Title="Wyszukiwarka" Height="456.76" Width="811.588">
+    <Grid Margin="10,10,17,11">
+        <Button x:Name="Powrot" Content="Powrot" HorizontalAlignment="Left" Margin="669,363,0,0" VerticalAlignment="Top" Width="98" Height="32" Click="Powrot_Click"/>
+
+    </Grid>
+</Window>
